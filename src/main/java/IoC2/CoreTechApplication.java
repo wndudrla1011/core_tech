@@ -1,3 +1,5 @@
+package IoC2;
+
 import IoC2.ApplicationConfig;
 import IoC2.BookService;
 import org.springframework.boot.SpringApplication;
